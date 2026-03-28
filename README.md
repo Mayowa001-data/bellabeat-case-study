@@ -78,7 +78,8 @@ User activity peaks during morning and evening hours, with low activity during l
 
 ### Daily Activity Trends
 
-![Daily Activity](visuals/daily_trend.png)
+<img width="1898" height="1162" alt="Daily_activity_trend" src="https://github.com/user-attachments/assets/9b652e5b-f0cf-44d3-a055-a4db096e7cdf" />
+
 
 Daily activity fluctuates significantly across users, showing inconsistent engagement.
 
@@ -86,7 +87,7 @@ Daily activity fluctuates significantly across users, showing inconsistent engag
 
 ### Weekday vs Weekend Activity
 
-![Weekday vs Weekend](visuals/weekday_vs_weekend.png)
+<img width="1653" height="995" alt="weekday_vs_weekend" src="https://github.com/user-attachments/assets/6b54bdad-4fcc-4733-8b3c-713887812d7c" />
 
 Activity levels are generally lower on weekends compared to weekdays.
 
@@ -94,7 +95,7 @@ Activity levels are generally lower on weekends compared to weekdays.
 
 ### Steps vs Calories Relationship
 
-![Steps vs Calories](visuals/steps_vs_calories.png)
+<img width="1653" height="998" alt="steps_vs_calories" src="https://github.com/user-attachments/assets/2fb0ac93-fd2d-4b10-8af9-b5f5d3d8edfe" />
 
 A strong positive relationship exists between steps taken and calories burned.
 
@@ -102,7 +103,7 @@ A strong positive relationship exists between steps taken and calories burned.
 
 ### Activity Level Distribution
 
-![Activity Distribution](visuals/activity_distribution.png)
+<img width="1651" height="991" alt="activity_level_distribution" src="https://github.com/user-attachments/assets/bcf0b220-2503-4525-9b08-417f9c44a749" />
 
 Most users fall below optimal activity levels, indicating opportunity for improvement.
 
@@ -110,7 +111,7 @@ Most users fall below optimal activity levels, indicating opportunity for improv
 
 ### Hourly Activity Patterns
 
-![Hourly Activity](visuals/hourly_activity.png)
+<img width="1653" height="996" alt="hourly_activity" src="https://github.com/user-attachments/assets/ae44d1d8-d8c3-4875-af97-241e440c116e" />
 
 Activity peaks during key hours of the day, especially mornings and evenings.
 
