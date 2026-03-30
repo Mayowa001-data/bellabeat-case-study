@@ -54,15 +54,15 @@ The following steps were performed to prepare the data for analysis:
 
 ### 1. Inconsistent Activity Levels
 
-User activity levels vary significantly from day to day, indicating inconsistent exercise habits.
+Daily step counts fluctuate significantly, while calories burned remain relatively stable, suggesting that baseline metabolic activity contributes consistently to calorie expenditure regardless of step variation.
 
 ### 2. Lower Weekend Activity
 
-Users tend to be less active on weekends compared to weekdays.
+Activity levels are highest midweek and decline towards the weekend, with Sunday showing the lowest engagement.
 
 ### 3. Strong Steps vs Calories Relationship
 
-There is a strong positive correlation between steps taken and calories burned.
+There is a clear positive correlation between steps taken and calories burned, reinforcing that increased physical activity leads to higher energy expenditure.
 
 ### 4. Low Activity Distribution
 
@@ -70,7 +70,7 @@ A large proportion of users fall into low-to-moderate activity levels and do not
 
 ### 5. Peak Activity Hours
 
-User activity peaks during morning and evening hours, with low activity during late-night periods.
+User activity peaks during early morning hours and shows a secondary increase in the evening, suggesting that users are most active before work and after typical working hours.
 
 ---
 
@@ -119,13 +119,47 @@ Activity peaks during key hours of the day, especially mornings and evenings.
 
 ## Recommendations
 
-Based on the analysis, the following recommendations are proposed for the Bellabeat app:
+Based on the analysis, the following data-driven recommendations are proposed for the Bellabeat app:
 
-* Introduce personalised activity reminders to increase engagement
-* Implement gamification features such as step goals and streaks
-* Send notifications during low-activity periods
-* Develop weekend-specific challenges to boost activity levels
-* Use time-based insights to optimise user engagement strategies
+### 1. Target Low-Activity Users
+
+The majority of users fall into the low activity category.
+Bellabeat should introduce personalised step goals, beginner-friendly challenges, and progress tracking to help inactive users gradually increase their activity levels.
+
+---
+
+### 2. Leverage Peak Activity Times
+
+User activity peaks during early mornings and evenings.
+Bellabeat can send notifications, workout suggestions, and reminders during these high-engagement periods to maximise user interaction and habit formation.
+
+---
+
+### 3. Address Weekend Activity Drop
+
+Activity levels decline towards the weekend, particularly on Sundays.
+Bellabeat should introduce weekend-specific challenges, incentives, and reminders to encourage users to stay active during these periods.
+
+---
+
+### 4. Reinforce Activity–Calorie Relationship
+
+There is a strong positive correlation between steps and calories burned.
+The app should visualise this relationship clearly to motivate users by showing how increased movement directly impacts calorie burn and overall health.
+
+---
+
+### 5. Improve Consistency in User Behaviour
+
+Daily activity trends show significant fluctuations in step counts.
+Bellabeat can implement streak features, habit tracking, and consistency-based rewards to encourage regular daily activity.
+
+---
+
+### 6. Utilise Time-Based Engagement Strategies
+
+Periods of low activity (e.g., late night and mid-day dips) present opportunities for intervention.
+Bellabeat can send timely nudges or reminders during these low-activity windows to re-engage users.
 
 ---
 
