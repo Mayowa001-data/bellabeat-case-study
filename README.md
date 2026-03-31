@@ -72,13 +72,18 @@ A large proportion of users fall into low-to-moderate activity levels and do not
 
 User activity peaks during early morning hours and shows a secondary increase in the evening, suggesting that users are most active before work and after typical working hours.
 
+### Overall
+
+These insights highlight clear behavioural patterns that can be leveraged to improve user engagement and encourage healthier habits through targeted interventions.
+
 ---
 
 ## Visualisations & Insights
 
 ### Daily Activity Trends
 
-<img width="1898" height="1162" alt="Daily_activity_trend" src="https://github.com/user-attachments/assets/9b652e5b-f0cf-44d3-a055-a4db096e7cdf" />
+
+<img width="1898" height="1162" alt="Daily_activity_trend" src="https://github.com/user-attachments/assets/6ec31cba-67b1-4b4e-a7ea-c9a985a50d07" />
 
 
 Daily activity fluctuates significantly across users, showing inconsistent engagement.
@@ -87,7 +92,7 @@ Daily activity fluctuates significantly across users, showing inconsistent engag
 
 ### Weekday vs Weekend Activity
 
-<img width="1653" height="995" alt="weekday_vs_weekend" src="https://github.com/user-attachments/assets/6b54bdad-4fcc-4733-8b3c-713887812d7c" />
+<img width="1653" height="995" alt="weekday_vs_weekend" src="https://github.com/user-attachments/assets/ca0624bf-b10b-453a-aaba-6ddf056f6051" />
 
 Activity levels are generally lower on weekends compared to weekdays.
 
@@ -95,7 +100,7 @@ Activity levels are generally lower on weekends compared to weekdays.
 
 ### Steps vs Calories Relationship
 
-<img width="1653" height="998" alt="steps_vs_calories" src="https://github.com/user-attachments/assets/2fb0ac93-fd2d-4b10-8af9-b5f5d3d8edfe" />
+<img width="1653" height="998" alt="steps_vs_calories" src="https://github.com/user-attachments/assets/b9255446-38e1-4a52-a88b-42db1225aaab" />
 
 A strong positive relationship exists between steps taken and calories burned.
 
@@ -103,7 +108,7 @@ A strong positive relationship exists between steps taken and calories burned.
 
 ### Activity Level Distribution
 
-<img width="1651" height="991" alt="activity_level_distribution" src="https://github.com/user-attachments/assets/bcf0b220-2503-4525-9b08-417f9c44a749" />
+<img width="1653" height="996" alt="activity_level_distribution" src="https://github.com/user-attachments/assets/f83225b5-7595-4a70-8d23-6aeadf9a85ab" />
 
 Most users fall below optimal activity levels, indicating opportunity for improvement.
 
@@ -111,7 +116,7 @@ Most users fall below optimal activity levels, indicating opportunity for improv
 
 ### Hourly Activity Patterns
 
-<img width="1653" height="996" alt="hourly_activity" src="https://github.com/user-attachments/assets/ae44d1d8-d8c3-4875-af97-241e440c116e" />
+<img width="1653" height="996" alt="hourly_activity" src="https://github.com/user-attachments/assets/b5251ec6-8a68-4b8c-8119-33ae20e10943" />
 
 Activity peaks during key hours of the day, especially mornings and evenings.
 
@@ -170,9 +175,6 @@ This analysis highlights key behavioural trends in smart device usage. By levera
 ---
 
 ## Data Files
-
-The cleaned dataset used for this analysis can be found in the `/data` folder of this repository.
-
 
 The cleaned dataset used for this analysis can be found in the `/data` folder of this repository.
 
